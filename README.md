@@ -1,3 +1,3 @@
 # LOLLIPOLAND
 LOLLIPOLAND製のアプリを配布していきます。
-LOLLIPOLANDのテーマ曲用OGGプレイヤー配信開始しました！！！
+2023年7月24日　LOLLIPOLANDのテーマ曲用OGGプレイヤー配信開始しました！！！
